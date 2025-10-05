@@ -31,3 +31,21 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### OS-specific ###
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Java ###
+*.class
+*.log
+hs_err_pid*
+replay_pid*
